@@ -4869,13 +4869,13 @@
 				<Background Type="CT_RAW" Source="FFC2C8D6" />
 			</Color>
 			<Color Name="CommandBarBorder">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarCheckBox">
 				<Background Type="CT_RAW" Source="FFC2C8D6" />
 			</Color>
 			<Color Name="CommandBarCheckBoxDisabled">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarCheckBoxMouseOver">
 				<Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -4899,25 +4899,25 @@
 				<Background Type="CT_RAW" Source="FF13161B" />
 			</Color>
 			<Color Name="CommandBarHover">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarHoverOverSelected">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarHoverOverSelectedIcon">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarHoverOverSelectedIconBorder">
 				<Background Type="CT_RAW" Source="1AFFFFFF" />
 			</Color>
 			<Color Name="CommandBarMenuBackgroundGradientBegin">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarMenuBackgroundGradientEnd">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarMenuBorder">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarMenuGlyph">
 				<Background Type="CT_RAW" Source="FF8592AD" />
@@ -4929,7 +4929,7 @@
 				<Background Type="CT_RAW" Source="FF55AAFF" />
 			</Color>
 			<Color Name="CommandBarMenuIconBackground">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarMenuItemMouseOver">
 				<Background Type="CT_RAW" Source="FF16191F" />
@@ -5044,13 +5044,13 @@
 				<Background Type="CT_RAW" Source="FF337799" />
 			</Color>
 			<Color Name="CommandBarSelected">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarSelectedBorder">
 				<Background Type="CT_RAW" Source="FF232730" />
 			</Color>
 			<Color Name="CommandBarSelectedIcon">
-				<Background Type="CT_RAW" Source="00101216" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="CommandBarSelectedIconBorder">
 				<Background Type="CT_RAW" Source="00101216" />
