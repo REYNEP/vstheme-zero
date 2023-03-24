@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Themes>
-  <Theme Name="ZeroREYMod (3)" GUID="{5943c2d7-b772-44c2-835b-ae3d6d2e42c4}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
+  <Theme Name="ZeroREYMod (4)" GUID="{91d4e7e0-d9d5-4d94-9bac-6ece4893140b}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -1837,7 +1837,7 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FF5CADD6" />
+        <Foreground Type="CT_RAW" Source="FF838FA7" />
       </Color>
       <Color Name="CodeAnalysisCurrentStatementSelection">
         <Background Type="CT_RAW" Source="FF501E00" />
@@ -1869,7 +1869,7 @@
       </Color>
       <Color Name="CppClassTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FF5CADD6" />
+        <Foreground Type="CT_RAW" Source="FF838FA7" />
       </Color>
       <Color Name="CppControlKeywordSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -2513,7 +2513,7 @@
       </Color>
       <Color Name="regex - character class">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FF5CADD6" />
+        <Foreground Type="CT_RAW" Source="FF838FA7" />
       </Color>
       <Color Name="regex - comment">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -3697,7 +3697,7 @@
       </Color>
       <Color Name="ReSharper C++ Class Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF5CADD6" />
+        <Foreground Type="CT_RAW" Source="FF838FA7" />
       </Color>
       <Color Name="ReSharper C++ Struct Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9255,7 +9255,7 @@
     <Category Name="Text Editor Language Service Items" GUID="{e0187991-b458-4f7e-8ca9-42c9a573b56c}">
       <Color Name="Comment">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FF52607A" />
+        <Foreground Type="CT_RAW" Source="FF555A82" />
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -9263,7 +9263,7 @@
       </Color>
       <Color Name="Keyword">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FF337799" />
+        <Foreground Type="CT_RAW" Source="FF838FA7" />
       </Color>
       <Color Name="Memory Address">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -9283,7 +9283,7 @@
       </Color>
       <Color Name="Number">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFFF708E" />
+        <Foreground Type="CT_RAW" Source="FFFF70A5" />
       </Color>
       <Color Name="Register Data">
         <Background Type="CT_INVALID" Source="00101216" />
