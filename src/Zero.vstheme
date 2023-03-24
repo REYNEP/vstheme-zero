@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Themes>
-  <Theme Name="ZeroREYMod (9)" GUID="{2681716d-b1e2-4060-93bb-e295a4b2ee43}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
+  <Theme Name="ZeroREYMod (10)" GUID="{8ff8bf18-cac5-4bb2-b13e-501e99b7f4c8}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -1905,7 +1905,7 @@
       </Color>
       <Color Name="CppLocalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFA3ADC2" />
+        <Foreground Type="CT_RAW" Source="FFBECEEE" />
       </Color>
       <Color Name="CppMacroSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
