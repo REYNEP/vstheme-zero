@@ -60,7 +60,7 @@ int main(void) {
     amGHOST_Window *wOne = MARADONA->create_window(":𝐫𝐞", 0, 0, 600, 600);
         /** [EK.hh]    EK   - Event Konsument. xD (German) 👀
             Your own Function to process amGHOST Event (OS Events)     */
-    MARADONA->add_EventKonsument(&EK);
+    MARADONA->add_EventKonsument(&EK);   [FFEA6D97]
 
 
 

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Themes>
-  <Theme Name="ZeroREYMod (5)" GUID="{ef5d27c0-c1fd-4d0e-b972-7038b0ecb016}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
+  <Theme Name="ZeroREYMod (9)" GUID="{2681716d-b1e2-4060-93bb-e295a4b2ee43}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -1877,7 +1877,7 @@
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFC2D65C" />
+        <Foreground Type="CT_RAW" Source="FFFF7F9A" />
       </Color>
       <Color Name="CppEventSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -1885,11 +1885,11 @@
       </Color>
       <Color Name="CppFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFBF94FF" />
+        <Foreground Type="CT_RAW" Source="FFC6A1FE" />
       </Color>
       <Color Name="CppFunctionTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFEA6D97" />
+        <Foreground Type="CT_RAW" Source="FFC6A1FE" />
       </Color>
       <Color Name="CppGenericTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -1917,7 +1917,7 @@
       </Color>
       <Color Name="CppMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFEA6D97" />
+        <Foreground Type="CT_RAW" Source="FFC6A1FE" />
       </Color>
       <Color Name="CppMemberOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -2677,7 +2677,7 @@
       </Color>
       <Color Name="urlformat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFD65C85" />
+        <Foreground Type="CT_RAW" Source="FF555A82" />
       </Color>
       <Color Name="VA Brace Error">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -4141,7 +4141,7 @@
       </Color>
       <Color Name="Hlsl.Parameter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFEA6D97" />
       </Color>
       <Color Name="Hlsl.Function">
         <Background Type="CT_INVALID" Source="00000000" />
