@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Themes>
-  <Theme Name="ZeroREYMod (4)" GUID="{91d4e7e0-d9d5-4d94-9bac-6ece4893140b}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
+  <Theme Name="ZeroREYMod (5)" GUID="{ef5d27c0-c1fd-4d0e-b972-7038b0ecb016}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -1837,7 +1837,7 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FF838FA7" />
+        <Foreground Type="CT_RAW" Source="FFB07CFF" />
       </Color>
       <Color Name="CodeAnalysisCurrentStatementSelection">
         <Background Type="CT_RAW" Source="FF501E00" />
@@ -1869,7 +1869,7 @@
       </Color>
       <Color Name="CppClassTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FF838FA7" />
+        <Foreground Type="CT_RAW" Source="FFFF987E" />
       </Color>
       <Color Name="CppControlKeywordSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -1885,11 +1885,11 @@
       </Color>
       <Color Name="CppFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFD65C85" />
+        <Foreground Type="CT_RAW" Source="FFBF94FF" />
       </Color>
       <Color Name="CppFunctionTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFD65C85" />
+        <Foreground Type="CT_RAW" Source="FFEA6D97" />
       </Color>
       <Color Name="CppGenericTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -1897,7 +1897,7 @@
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFD6C25C" />
+        <Foreground Type="CT_RAW" Source="FF80A6FF" />
       </Color>
       <Color Name="CppLabelSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -1917,7 +1917,7 @@
       </Color>
       <Color Name="CppMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFD65C85" />
+        <Foreground Type="CT_RAW" Source="FFEA6D97" />
       </Color>
       <Color Name="CppMemberOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -1925,7 +1925,7 @@
       </Color>
       <Color Name="CppNamespaceSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFA3ADC2" />
+        <Foreground Type="CT_RAW" Source="FFB392F0" />
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -1949,7 +1949,7 @@
       </Color>
       <Color Name="CppStaticMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFC25CD6" />
+        <Foreground Type="CT_RAW" Source="FF80A6FF" />
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -2445,7 +2445,7 @@
       </Color>
       <Color Name="Preprocessor Keyword">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FF3D475C" />
+        <Foreground Type="CT_RAW" Source="FF838FA7" />
       </Color>
       <Color Name="preprocessor text">
         <Background Type="CT_RAW" Source="FF13161B" />
@@ -2513,7 +2513,7 @@
       </Color>
       <Color Name="regex - character class">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FF838FA7" />
+        <Foreground Type="CT_RAW" Source="FFB07CFF" />
       </Color>
       <Color Name="regex - comment">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -3464,7 +3464,7 @@
         <Foreground Type="CT_RAW" Source="FF9470DB" />
       </Color>
       <Color Name="ReSharper TypeScript Variable Declaration Identifier">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="00C2C8D6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Template Editor JavaScript Comment">
@@ -3696,7 +3696,7 @@
         <Foreground Type="CT_RAW" Source="FF8592AD" />
       </Color>
       <Color Name="ReSharper C++ Class Identifier">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="00838FA7" />
         <Foreground Type="CT_RAW" Source="FF838FA7" />
       </Color>
       <Color Name="ReSharper C++ Struct Identifier">
@@ -9259,7 +9259,7 @@
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFC2C8D6" />
+        <Foreground Type="CT_RAW" Source="FFEA6D97" />
       </Color>
       <Color Name="Keyword">
         <Background Type="CT_INVALID" Source="00101216" />
