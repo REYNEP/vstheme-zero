@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Themes>
-  <Theme Name="ZeroREYMod (2)" GUID="{bf5261df-b392-4a44-9e55-91250fc3e32a}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
+  <Theme Name="ZeroREYMod (3)" GUID="{5943c2d7-b772-44c2-835b-ae3d6d2e42c4}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -1913,7 +1913,7 @@
       </Color>
       <Color Name="CppMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFD6995C" />
+        <Foreground Type="CT_RAW" Source="FF80A6FF" />
       </Color>
       <Color Name="CppMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -1941,7 +1941,7 @@
       </Color>
       <Color Name="CppPropertySemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFD6995C" />
+        <Foreground Type="CT_RAW" Source="FF80A6FF" />
       </Color>
       <Color Name="CppRefTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -4861,7 +4861,7 @@
         <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="ClassDesignerPropertyAssociation">
-        <Background Type="CT_RAW" Source="FFFF8C00" />
+        <Background Type="CT_RAW" Source="FFD6995C" />
       </Color>
       <Color Name="ClassDesignerReferencedAssemblyBorder">
         <Background Type="CT_RAW" Source="FF3399FF" />
@@ -9283,7 +9283,7 @@
       </Color>
       <Color Name="Number">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFFF7F9A" />
+        <Foreground Type="CT_RAW" Source="FFFF708E" />
       </Color>
       <Color Name="Register Data">
         <Background Type="CT_INVALID" Source="00101216" />
