@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Themes>
-  <Theme Name="ZeroREYMod (10)" GUID="{8ff8bf18-cac5-4bb2-b13e-501e99b7f4c8}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
+  <Theme Name="ZeroREYMod (11)" GUID="{c3c28356-2ea3-4907-9ef9-dd1df5a60316}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -1953,7 +1953,7 @@
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FFC25CD6" />
+        <Foreground Type="CT_RAW" Source="FFC6A1FE" />
       </Color>
       <Color Name="CppStringDelimiterCharacterSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -3765,7 +3765,7 @@
       </Color>
       <Color Name="ReSharper C++ Static Member Function Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC25CD6" />
+        <Foreground Type="CT_RAW" Source="FFC6A1FE" />
       </Color>
       <Color Name="ReSharper C++ Overloaded Operator Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
