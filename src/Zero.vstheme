@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Themes>
-  <Theme Name="ZeroREYMod (11)" GUID="{c3c28356-2ea3-4907-9ef9-dd1df5a60316}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
+  <Theme Name="ZeroREYMod (12)" GUID="{be7059c8-8045-4dc8-83c2-ef921aef76d4}" BaseGUID="{5af04288-ab32-45d0-9c62-242e0ed2ee87}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -2208,8 +2208,8 @@
         <Foreground Type="CT_RAW" Source="FFC563BD" />
       </Color>
       <Color Name="Line Number">
-        <Background Type="CT_RAW" Source="FF13161B" />
-        <Foreground Type="CT_RAW" Source="FF52607A" />
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF3D475C" />
       </Color>
       <Color Name="Literal">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -3848,7 +3848,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Line Number">
-        <Background Type="CT_RAW" Source="FF13161B" />
+        <Background Type="CT_INVALID" Source="0013161B" />
         <Foreground Type="CT_RAW" Source="FF8592AD" />
       </Color>
       <Color Name="Tracepoint - Mapped (Enabled)">
@@ -4735,7 +4735,7 @@
         <Background Type="CT_RAW" Source="00101216" />
       </Color>
       <Color Name="AutoHideTabMouseOverBorder">
-        <Background Type="CT_RAW" Source="FFC2C8D6" />
+        <Background Type="CT_RAW" Source="FFB07CFF" />
       </Color>
       <Color Name="AutoHideTabMouseOverText">
         <Background Type="CT_RAW" Source="FF52607A" />
